@@ -1,0 +1,15 @@
+*.swp
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/resources/public/app.js
+/resources/public/out.js.map
+/resources/public/out
+/out
+/.repl

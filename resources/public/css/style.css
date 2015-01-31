@@ -1,0 +1,18 @@
+.extra-space {margin-top:3em;}
+
+body {
+  background: yellow;
+}
+
+.user-input { color: red; }
+
+.contact-name {margin:1em;text-align:left;}
+
+.caret.caret-reversed {
+    border-top-width: 0;
+    border-bottom: 4px solid #FFFFFF;
+}
+
+a.sort-column {
+    text-decoration: none;
+}
