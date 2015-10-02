@@ -4,6 +4,16 @@ For merchant that don't live in the terminal. A dashboard / tour / CRM app.
 
 app.vaulted.com
 
+## Screenshots
+
+![Tour](static/tour.png)
+
+*Interactive tour.*
+
+![Transactions](static/transactions.png)
+
+*Example view with downloadable CSV.*
+
 ## Development
 
 To autocompile Clojurescript, run
